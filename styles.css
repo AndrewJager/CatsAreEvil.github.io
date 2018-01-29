@@ -13,6 +13,14 @@ ul {
 li {
     display: inline;
     font-size: 50px;
-    font-style: italic;
     background-color: lightgray;
+    font-family: courier;
 }
+
+.Foot{ 
+    position: fixed;     
+    text-align: Right;    
+    bottom: 0px; 
+    width: 100%;
+    color: lightgrey;
+   } 
